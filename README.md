@@ -48,7 +48,7 @@ O Ponto Orgânico é uma plataforma que incentiva a compostagem e o descarte cor
 Antes de começar, você precisa ter instalado:
 
 - **Node.js** (versão 18 ou superior) - Se não tiver, baixe em [nodejs.org](https://nodejs.org/)
-- **npm** - Vem junto com o Node.js (ou você pode usar yarn/bun como alternativa)
+- **npm** - Vem junto com o Node.js
 - **Conta no Supabase** - É gratuito, crie em [supabase.com](https://supabase.com)
 
 Se você não sabe o que é Node.js ou npm, não se preocupe! Node.js é um programa que permite rodar JavaScript no seu computador, e npm é uma ferramenta que instala as bibliotecas que o projeto precisa.
