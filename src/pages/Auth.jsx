@@ -106,7 +106,7 @@ export default function Auth() {
 
         toast({ 
           title: 'Sucesso', 
-          description: 'Conta criada com sucesso! Verifique seu email para autenticar sua conta e começar a usar o Ponto Orgânico! 🌱📧' 
+          description: 'Conta criada com sucesso! 🌱' 
         });
         navigate('/');
       } else {
